@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Browser / Playwright Profiles
+browser_profile/
+linkedin_profile/
+profile/
+profiles/
+
+# Database / Logs
+*.db
+*.sqlite3
+*.log
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Data Files (optional)
+data/
+
+# Excel / CSV generated files
+*.csv
+*.xlsx
+
+# Temporary files
+temp/
+tmp/
