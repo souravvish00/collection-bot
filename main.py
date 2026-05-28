@@ -278,3 +278,6 @@ with sync_playwright() as p:
     print("\nALL DATA SAVED")
 
     browser.close()
+
+
+    # check how much is this working or not
